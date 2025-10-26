@@ -1,3 +1,13 @@
+/* ---------- FONT PRINCIPALE ---------- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+html, body {
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  color: #222;
+  background-color: #fafafa;
+  line-height: 1.6;
+}
+
 /* ============================================================
    ITER IAPONICUM — Stile minimal ed elegante
    Versione con interazioni leggere
