@@ -194,3 +194,19 @@ a.button:hover {
     margin: 1.5rem auto;
   }
 }
+/* ---------- IMMAGINE DI COPERTINA DELLE SCHEDE ---------- */
+
+.cover {
+  width: 200px;           /* larghezza fissa */
+  height: auto;           /* mantiene le proporzioni */
+  border-radius: 8px;     /* angoli arrotondati */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);  /* ombra leggera */
+  border: 1px solid #ddd; /* bordo grigio chiaro */
+  margin-bottom: 1rem;    /* spazio sotto l'immagine */
+}
+
+@media (max-width: 768px) {
+  .cover {
+    width: 100%;
+  }
+}
