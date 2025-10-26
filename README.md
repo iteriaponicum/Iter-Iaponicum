@@ -1,2 +1,3 @@
-# Iter-Iaponicum
-Catalogo ITER IAPONICUM
+# ITER IAPONICUM
+
+Sito generato per GitHub Pages.
